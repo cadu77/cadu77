@@ -32,5 +32,5 @@
   <br>
   <br>
   
-  ![Snake animation](https://github.com/rafaballerini/cadu77/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/cadu77/cadu77/blob/output/github-contribution-grid-snake.svg)
   
