@@ -1,11 +1,6 @@
-<div class="titulo">
+<h1 style="color:Tomato;">### Prazer! Me chamo Eduardo Ferreira</h1>
 <h1>### Prazer! Me chamo Eduardo Ferreira</h1>
    
-</div>
-
-.titulo{
-   font-color:blue
-}
 
 - 💖 Apaixonado por Tecnologia
 - 🖥️ Programador Front-end e Back-End
