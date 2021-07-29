@@ -23,6 +23,11 @@
   
   <img align="right" alt="luffy" height="200" width="180" src="https://media.tenor.com/images/9ff03b679bf96782b7ff1fb4089ad7e9/tenor.gif">
 </div>
+  <br>
+  <br>
+  <br><br>
+  <br>
+  <br>
   
   ![Snake animation](https://github.com/rafaballerini/cadu77/blob/output/github-contribution-grid-snake.svg)
   
