@@ -1,4 +1,3 @@
-<h1 style="color:Tomato;">### Prazer! Me chamo Eduardo Ferreira</h1>
 <h1>### Prazer! Me chamo Eduardo Ferreira</h1>
    
 
