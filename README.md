@@ -1,5 +1,7 @@
+<div class="titulo">
 <h1>### Prazer! Me chamo Eduardo Ferreira</h1>
-
+   <p style="color: #FF9F35">Career Karma</p>
+</div>
 
 - 💖 Apaixonado por Tecnologia
 - 🖥️ Programador Front-end e Back-End
