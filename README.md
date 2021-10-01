@@ -1,11 +1,26 @@
-### Prazer! Me chamo Eduardo Ferreira
+## Eduardo Ferreira
    
+   ## Seja Bem Vindo 👋
+   
+   Sou extremamente curioso e fascinado por tecnologia e programação. <br>
+   Sou programador Front-End em desenvolvimento 💻. <br>
+  
+### Sobre Mim
+-  🤔 Adquirindo conhecimento em novas tecnologias e desenvolvendo web 📟 e mobile 📲.
+-  💼 Disponivel para Estágios na área.
+-  😊 Conhecimentos com HTML, CSS, JS, MySql e Java.
+-  🌱 Aprendendo ReactJs, Flutter, NodeJS.
 
-- 💖 Apaixonado por Tecnologia
-- 🖥️ Programador Front-end e Back-End
-- 🔍 Procurando aprender Data Science
+[//]: <> (🎓 Estudando xxxxxxxx.)
+   
+   <br>
+   
+### Minhas Skills
 
-  <br>
+-  🦄 Stacks: HTML, CSS, JavaScript e Java
+
+-  💼 Ferramentas de Desenvolvimento: Visual Studio Code.
+
   
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cadu77&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
