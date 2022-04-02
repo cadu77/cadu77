@@ -12,8 +12,7 @@
    -  🌱 Aprendendo Stack JavaScript.
 
    ## Formação
-   ### Instituto Infnet
-   -  🎓 Estudando Análise e Desenvolvimento de Sistemas. 
+   -  🎓 Estudante Ciência da Computação. 
 
 
       <br>
