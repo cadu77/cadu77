@@ -6,23 +6,24 @@
    Sou programador Front-End em desenvolvimento 💻. <br>
   
    ## Sobre Mim
-   -  🤔 Adquirindo conhecimento em novas tecnologias e desenvolvendo web 📟 e mobile 📲.
+   -  🤔 Adquirindo conhecimento em novas tecnologias e desenvolvendo web 📟 e mobile 📲 e DataScience 📈.
    -  💼 Disponivel para Estágios na área.
-   -  😊 Conhecimentos com HTML, CSS, JS, MySql e Java.
+   -  😊 Conhecimentos com HTML, CSS, JS, MySql e Java, PowerBi.
    -  🌱 Aprendendo Stack JavaScript.
 
    ## Formação
    -  🎓 Estudante Ciência da Computação. 
+   -  🖥️ Tecnico em Desenvolvimento de Sistemas
 
 
       <br>
 
-   ## Minhas Skills
+  ## Certificações
+  
+  - Microsoft Azure Data Fundamentals DP-900
+  - Microsoft Azure AI Fundamentals AI-900
 
-   -  🦄 Stacks: HTML, CSS, JavaScript e Java
-
-   -  💼 Ferramentas de Desenvolvimento: Visual Studio Code.
-
+      <br>
 
    <div>
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cadu77&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
