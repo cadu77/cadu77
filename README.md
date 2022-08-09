@@ -11,8 +11,8 @@
    -  👨‍💻 Data Engineer | Machine Learning | Data Analytics.
 
    ## Formação
-   -  🎓 Estudante Ciência da Computação. 
-   -  🖥️ Tecnico em Desenvolvimento de Sistemas
+   -  🎓 Estudante Big Data para Negócios - Faculdade de Tecnologia do Estado de São Paulo. 
+   -  🖥️ Tecnico em Desenvolvimento de Sistemas.
 
 
       <br>
