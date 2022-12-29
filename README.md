@@ -7,7 +7,7 @@
   
    ## Sobre Mim
    -  💡 Adquirindo conhecimentos em tecnologias de Data Science 📈  e artificial intelligence 🧠.
-   -  📖 Conhecimentos com HTML, CSS, JS, Java, Sql e PowerBi.
+   -  📖 Conhecimentos em: HTML, CSS, JS, Java, Python, Sql e PowerBi. <Br>
    -  👨‍💻 Data Engineer | Machine Learning | Data Analytics.
 
    ## Formação
